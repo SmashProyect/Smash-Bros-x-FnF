@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DK.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DK down0000" x="0" y="0" width="526" height="515"/>
+	<SubTexture name="DK down0001" x="0" y="0" width="526" height="515"/>
+	<SubTexture name="DK down0002" x="0" y="0" width="526" height="515"/>
+	<SubTexture name="DK down0003" x="526" y="0" width="526" height="510" frameX="0" frameY="-5" frameWidth="526" frameHeight="515"/>
+	<SubTexture name="DK down0004" x="526" y="0" width="526" height="510" frameX="0" frameY="-5" frameWidth="526" frameHeight="515"/>
+	<SubTexture name="DK down0005" x="526" y="0" width="526" height="510" frameX="0" frameY="-5" frameWidth="526" frameHeight="515"/>
+	<SubTexture name="DK down0006" x="526" y="0" width="526" height="510" frameX="0" frameY="-5" frameWidth="526" frameHeight="515"/>
+	<SubTexture name="DK down0007" x="526" y="0" width="526" height="510" frameX="0" frameY="-5" frameWidth="526" frameHeight="515"/>
+	<SubTexture name="DK down0008" x="526" y="0" width="526" height="510" frameX="0" frameY="-5" frameWidth="526" frameHeight="515"/>
+	<SubTexture name="DK down0009" x="526" y="0" width="526" height="510" frameX="0" frameY="-5" frameWidth="526" frameHeight="515"/>
+	<SubTexture name="DK down0010" x="526" y="0" width="526" height="510" frameX="0" frameY="-5" frameWidth="526" frameHeight="515"/>
+	<SubTexture name="DK down0011" x="526" y="0" width="526" height="510" frameX="0" frameY="-5" frameWidth="526" frameHeight="515"/>
+	<SubTexture name="DK down0012" x="526" y="0" width="526" height="510" frameX="0" frameY="-5" frameWidth="526" frameHeight="515"/>
+	<SubTexture name="DK down0013" x="526" y="0" width="526" height="510" frameX="0" frameY="-5" frameWidth="526" frameHeight="515"/>
+	<SubTexture name="DK down0014" x="526" y="0" width="526" height="510" frameX="0" frameY="-5" frameWidth="526" frameHeight="515"/>
+	<SubTexture name="DK down0015" x="0" y="0" width="526" height="515"/>
+	<SubTexture name="DK down0016" x="0" y="0" width="526" height="515"/>
+	<SubTexture name="DK down0017" x="0" y="0" width="526" height="515"/>
+	<SubTexture name="DK idle0000" x="1052" y="0" width="526" height="583" frameX="0" frameY="-9" frameWidth="526" frameHeight="592"/>
+	<SubTexture name="DK idle0001" x="1052" y="0" width="526" height="583" frameX="0" frameY="-9" frameWidth="526" frameHeight="592"/>
+	<SubTexture name="DK idle0002" x="1578" y="0" width="526" height="592"/>
+	<SubTexture name="DK idle0003" x="1578" y="0" width="526" height="592"/>
+	<SubTexture name="DK idle0004" x="1578" y="0" width="526" height="592"/>
+	<SubTexture name="DK idle0005" x="1578" y="0" width="526" height="592"/>
+	<SubTexture name="DK idle0006" x="2104" y="0" width="526" height="587" frameX="0" frameY="-5" frameWidth="526" frameHeight="592"/>
+	<SubTexture name="DK idle0007" x="2104" y="0" width="526" height="587" frameX="0" frameY="-5" frameWidth="526" frameHeight="592"/>
+	<SubTexture name="DK idle0008" x="2104" y="0" width="526" height="587" frameX="0" frameY="-5" frameWidth="526" frameHeight="592"/>
+	<SubTexture name="DK idle0009" x="2104" y="0" width="526" height="587" frameX="0" frameY="-5" frameWidth="526" frameHeight="592"/>
+	<SubTexture name="DK idle0010" x="2630" y="0" width="526" height="584" frameX="0" frameY="-8" frameWidth="526" frameHeight="592"/>
+	<SubTexture name="DK idle0011" x="2630" y="0" width="526" height="584" frameX="0" frameY="-8" frameWidth="526" frameHeight="592"/>
+	<SubTexture name="DK idle0012" x="2630" y="0" width="526" height="584" frameX="0" frameY="-8" frameWidth="526" frameHeight="592"/>
+	<SubTexture name="DK idle0013" x="2630" y="0" width="526" height="584" frameX="0" frameY="-8" frameWidth="526" frameHeight="592"/>
+	<SubTexture name="DK left0000" x="3156" y="0" width="526" height="527"/>
+	<SubTexture name="DK left0001" x="3156" y="0" width="526" height="527"/>
+	<SubTexture name="DK left0002" x="3156" y="0" width="526" height="527"/>
+	<SubTexture name="DK left0003" x="0" y="592" width="526" height="527"/>
+	<SubTexture name="DK left0004" x="0" y="592" width="526" height="527"/>
+	<SubTexture name="DK left0005" x="0" y="592" width="526" height="527"/>
+	<SubTexture name="DK left0006" x="0" y="592" width="526" height="527"/>
+	<SubTexture name="DK left0007" x="0" y="592" width="526" height="527"/>
+	<SubTexture name="DK left0008" x="0" y="592" width="526" height="527"/>
+	<SubTexture name="DK left0009" x="0" y="592" width="526" height="527"/>
+	<SubTexture name="DK left0010" x="0" y="592" width="526" height="527"/>
+	<SubTexture name="DK left0011" x="0" y="592" width="526" height="527"/>
+	<SubTexture name="DK left0012" x="0" y="592" width="526" height="527"/>
+	<SubTexture name="DK left0013" x="0" y="592" width="526" height="527"/>
+	<SubTexture name="DK left0014" x="0" y="592" width="526" height="527"/>
+	<SubTexture name="DK left0015" x="3156" y="0" width="526" height="527"/>
+	<SubTexture name="DK left0016" x="3156" y="0" width="526" height="527"/>
+	<SubTexture name="DK left0017" x="3156" y="0" width="526" height="527"/>
+	<SubTexture name="DK right0000" x="526" y="592" width="526" height="521" frameX="0" frameY="-4" frameWidth="526" frameHeight="525"/>
+	<SubTexture name="DK right0001" x="526" y="592" width="526" height="521" frameX="0" frameY="-4" frameWidth="526" frameHeight="525"/>
+	<SubTexture name="DK right0002" x="526" y="592" width="526" height="521" frameX="0" frameY="-4" frameWidth="526" frameHeight="525"/>
+	<SubTexture name="DK right0003" x="1052" y="592" width="526" height="525"/>
+	<SubTexture name="DK right0004" x="1052" y="592" width="526" height="525"/>
+	<SubTexture name="DK right0005" x="1052" y="592" width="526" height="525"/>
+	<SubTexture name="DK right0006" x="1052" y="592" width="526" height="525"/>
+	<SubTexture name="DK right0007" x="1052" y="592" width="526" height="525"/>
+	<SubTexture name="DK right0008" x="1052" y="592" width="526" height="525"/>
+	<SubTexture name="DK right0009" x="1052" y="592" width="526" height="525"/>
+	<SubTexture name="DK right0010" x="1052" y="592" width="526" height="525"/>
+	<SubTexture name="DK right0011" x="1052" y="592" width="526" height="525"/>
+	<SubTexture name="DK right0012" x="1052" y="592" width="526" height="525"/>
+	<SubTexture name="DK right0013" x="1052" y="592" width="526" height="525"/>
+	<SubTexture name="DK right0014" x="1052" y="592" width="526" height="525"/>
+	<SubTexture name="DK right0015" x="526" y="592" width="526" height="521" frameX="0" frameY="-4" frameWidth="526" frameHeight="525"/>
+	<SubTexture name="DK right0016" x="526" y="592" width="526" height="521" frameX="0" frameY="-4" frameWidth="526" frameHeight="525"/>
+	<SubTexture name="DK right0017" x="526" y="592" width="526" height="521" frameX="0" frameY="-4" frameWidth="526" frameHeight="525"/>
+	<SubTexture name="DK up0000" x="1578" y="592" width="526" height="539"/>
+	<SubTexture name="DK up0001" x="1578" y="592" width="526" height="539"/>
+	<SubTexture name="DK up0002" x="1578" y="592" width="526" height="539"/>
+	<SubTexture name="DK up0003" x="2104" y="592" width="526" height="521" frameX="0" frameY="-16" frameWidth="526" frameHeight="539"/>
+	<SubTexture name="DK up0004" x="2104" y="592" width="526" height="521" frameX="0" frameY="-16" frameWidth="526" frameHeight="539"/>
+	<SubTexture name="DK up0005" x="2104" y="592" width="526" height="521" frameX="0" frameY="-16" frameWidth="526" frameHeight="539"/>
+	<SubTexture name="DK up0006" x="2104" y="592" width="526" height="521" frameX="0" frameY="-16" frameWidth="526" frameHeight="539"/>
+	<SubTexture name="DK up0007" x="2104" y="592" width="526" height="521" frameX="0" frameY="-16" frameWidth="526" frameHeight="539"/>
+	<SubTexture name="DK up0008" x="2104" y="592" width="526" height="521" frameX="0" frameY="-16" frameWidth="526" frameHeight="539"/>
+	<SubTexture name="DK up0009" x="2104" y="592" width="526" height="521" frameX="0" frameY="-16" frameWidth="526" frameHeight="539"/>
+	<SubTexture name="DK up0010" x="2104" y="592" width="526" height="521" frameX="0" frameY="-16" frameWidth="526" frameHeight="539"/>
+	<SubTexture name="DK up0011" x="2104" y="592" width="526" height="521" frameX="0" frameY="-16" frameWidth="526" frameHeight="539"/>
+	<SubTexture name="DK up0012" x="2104" y="592" width="526" height="521" frameX="0" frameY="-16" frameWidth="526" frameHeight="539"/>
+	<SubTexture name="DK up0013" x="2104" y="592" width="526" height="521" frameX="0" frameY="-16" frameWidth="526" frameHeight="539"/>
+	<SubTexture name="DK up0014" x="2104" y="592" width="526" height="521" frameX="0" frameY="-16" frameWidth="526" frameHeight="539"/>
+	<SubTexture name="DK up0015" x="1578" y="592" width="526" height="539"/>
+	<SubTexture name="DK up0016" x="1578" y="592" width="526" height="539"/>
+	<SubTexture name="DK up0017" x="1578" y="592" width="526" height="539"/>
+</TextureAtlas>

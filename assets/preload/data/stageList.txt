@@ -1,0 +1,13 @@
+stage
+MarioHouseD
+MarioHouseM
+MarioHouseN
+DKHouseD
+DKHouseM
+DKHouseN
+TemploTiempoD
+TemploTiempoM
+TemploTiempoN
+ZonaYoshiD
+ZonaYoshiM
+ZonaYoshiN

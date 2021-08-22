@@ -1,0 +1,13 @@
+Tutorial:gf:1
+Shunshine:Mario:7
+The World of Mario:Mario:7
+Jump Up:Mario:7
+Jungle Rap:DK:8
+Kong Country:DK:8
+GangPlank Galleon:DK:8
+Song of Storms:Link:9
+Gerudo:Link:9
+The Hero of Time:Link:9
+Flower Garden:Yoshi:10
+Athletic Yoshi:Yoshi:10
+Yoshis Island:Yoshi:10

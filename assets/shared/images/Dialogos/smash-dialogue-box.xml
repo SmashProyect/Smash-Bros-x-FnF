@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smash-dialogue-box.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Smash box0000" x="0" y="0" width="1326" height="395"/>
+	<SubTexture name="Smash box0001" x="0" y="0" width="1326" height="395"/>
+	<SubTexture name="Smash box0002" x="0" y="395" width="1326" height="395"/>
+	<SubTexture name="Smash box0003" x="0" y="395" width="1326" height="395"/>
+	<SubTexture name="Smash box0004" x="0" y="790" width="1326" height="395"/>
+	<SubTexture name="Smash box0005" x="0" y="790" width="1326" height="395"/>
+	<SubTexture name="Smash box0006" x="0" y="1185" width="1326" height="395"/>
+	<SubTexture name="Smash box0007" x="0" y="1185" width="1326" height="395"/>
+</TextureAtlas>
